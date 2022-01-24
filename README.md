@@ -1,2 +1,2 @@
 # JavaScript-Projects
-These projects are my own, I am currently working on them.
+Here I will upload my own projects, they come with MIT license, read LICENSE for more information
